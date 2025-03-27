@@ -24,6 +24,7 @@ CS지식 및 코딩테스트를 위한 저장소
 
 # Start
 
+## 네트워크
 
 <details>
 <summary>웹 통신의 큰 흐름: https://www.google.com/ 을 접속할 때 일어나는 일</summary>
@@ -73,6 +74,52 @@ CS지식 및 코딩테스트를 위한 저장소
 <details>
 <summary>OSI7계층과 그 존재 이유, TCP/IP 4계층에 대해 설명해보세요.</summary>
 
+</details>
+
+
+## 운영체제
+<details>
+<summary>프로세스와 스레드의 차이를 설명해보세요.</summary>
+</details>
+
+<details>
+<summary>컨텍스트 스위칭에 대해 설명해보세요.</summary>
+</details>
+
+<details>
+<summary>동기와 비동기의 차이(블로킹, 넌블로킹) / 장단점에 대해 설명해보세요.</summary>
+</details>
+
+<details>
+<summary>멀티스레드 프로그래밍에 대해 설명해보세요.</summary>
+</details>
+
+<details>
+<summary>Thread-safe 하다는 의미와 설계하는 법을 설명해보세요.</summary>
+</details>
+
+<details>
+<summary>프로세스 동기화에 대해 설명해보세요.</summary>
+</details>
+
+<details>
+<summary>교착상태와 기아상태의 해결방법에 대해 설명해보세요.</summary>
+</details>
+
+<details>
+<summary>세마포어와 뮤텍스의 차이에 대해 설명해보세요.</summary>
+</details>
+
+<details>
+<summary>가상 메모리에 대해 설명해보세요.</summary>
+</details>
+
+<details>
+<summary>캐시의 지역성에 대해 설명해보세요.</summary>
+</details>
+
+<details>
+<summary>프로세스 관련 용어를 설명해보세요. (알아만 둡시다.)</summary>
 </details>
 
 
