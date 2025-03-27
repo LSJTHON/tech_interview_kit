@@ -1,6 +1,12 @@
 # tech_interview_kit
 CS지식 및 코딩테스트를 위한 저장소
 
+접고 펴는 토글 버튼을 만드려면 <details> 태그를 사용
+<summary> 앞에 점 구분자를 붙이려면 <summary></summary> 를 사용 </summary>
+  - 리스트
+  - **볼드**
+  - `코드 블럭` 등
+
 
 <details>
   <summary>여기를 눌러 펼치기</summary>
