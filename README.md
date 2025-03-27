@@ -359,7 +359,7 @@ CS지식 및 코딩테스트를 위한 저장소
 <summary>자바에서 null을 안전하게 다루는 방법에 대해 설명해주세요.</summary>
 </details>
 
-###Spring
+### Spring
 
 <details>
 <summary>Spring DI/IoC는 어떻게 동작하나요?</summary>
@@ -429,7 +429,7 @@ CS지식 및 코딩테스트를 위한 저장소
 <summary>의존성과 설정값을 생성자 인자로 주입해야 하는 이유에 대해 설명해주세요.</summary>
 </details>
 
-###JPA
+### JPA
 
 <details>
 <summary>JPA 영속성 컨텍스트의 이점(5가지)을 설명해주세요.</summary>
@@ -443,7 +443,7 @@ CS지식 및 코딩테스트를 위한 저장소
 <summary>N + 1 문제가 발생하는 이유와 이를 해결하는 방법을 설명해주세요.</summary>
 </details>
 
-###Python
+### Python
 
 <details>
 <summary>GIL에 대해 설명해주세요.</summary>
