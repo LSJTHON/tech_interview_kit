@@ -21,5 +21,68 @@ CS지식 및 코딩테스트를 위한 저장소
 </details>
 
 
+
+# Start
 <hr>
+
+<details>
+<summary>웹 통신의 큰 흐름: https://www.google.com/ 을 접속할 때 일어나는 일</summary>
+
+웹 통신의 큰 흐름: https://www.google.com/ 을 접속할 때 일어나는 일
+</details>
+
+<details>
+<summary>TCP와 UDP의 차이점에 대해서 설명해보세요.</summary>
+
+TCP와 UDP의 차이점에 대해서 설명해보세요.
+</details>
+
+<details>
+<summary>TCP 3, 4 way handshake에 대해서 설명해보세요.</summary>
+
+TCP 3, 4 way handshake에 대해서 설명해보세요.
+</details>
+
+<details>
+<summary>HTTP와 HTTPS의 차이점에 대해서 설명해보세요.</summary>
+
+HTTP와 HTTPS의 차이점에 대해서 설명해보세요.
+</details>
+
+<details>
+<summary>HTTPS에 대해서 설명하고 SSL Handshake에 대해서 설명해보세요.</summary>
+
+HTTPS에 대해서 설명하고 SSL Handshake에 대해서 설명해보세요.
+</details>
+
+<details>
+<summary>GET과 POST의 차이점에 대해서 설명해보세요.</summary>
+
+GET과 POST의 차이점에 대해서 설명해보세요.
+</details>
+
+<details>
+<summary>HTTP 메서드와 이것이 하는 역할에 대해서 설명해보세요.</summary>
+
+HTTP 메서드와 이것이 하는 역할에 대해서 설명해보세요.
+</details>
+
+<details>
+<summary>RESTful이란 무엇이며, 이것에 대해서 아는대로 설명해보세요.(보충필요)</summary>
+
+RESTful이란 무엇이며, 이것에 대해서 아는대로 설명해보세요.(보충필요)
+</details>
+
+<details>
+<summary>CORS란 무엇이며 이것에 대해서 설명해보세요.</summary>
+
+CORS란 무엇이며 이것에 대해서 설명해보세요.
+</details>
+
+<details>
+<summary>OSI7계층과 그 존재 이유, TCP/IP 4계층에 대해 설명해보세요.</summary>
+
+OSI7계층과 그 존재 이유, TCP/IP 4계층에 대해 설명해보세요.
+</details>
+
 
